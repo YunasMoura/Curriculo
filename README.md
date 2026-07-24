@@ -10,33 +10,30 @@
 - Curso Técnico Desenvolvimento de Sistemas - Senai Santo Paschoal Crepaldi 
     
     - Previsão de Término: 2027
+### Idiomas
+
+- Português
+- Inglês Básico 
 
 ### Cursos e Certificações
+- Excel Básico
 
+- Segurança no Trabalho
 
--   - Excel Básico
+- FluêncIA - Fundamentos da Inteligência Artificial
 
-    - Segurança no Trabalho
+- Ética na Inteligência Artificial 
 
-    - FluêncIA - Fundamentos da Inteligência Artificial
+- Por dentro da Segurança Cibernética
 
-    - Ética na Inteligência Artificial 
+- Fundamentos e Ações da Economia Circular
 
-    - Por dentro da Segurança Cibernética
+- Ciclos de Retorno para a Economia Circular
 
-    - Fundamentos e Ações da Economia Circular
+- Acelerando a Transição para a Economia Circular
 
-    - Ciclos de Retorno para a Economia Circular
+- Desvendando a Descarbonização
 
-    - Acelerando a Transição para a Economia Circular
-
-    - Desvendando a Descarbonização
-
-         - Término: 2026
-
-- Curso de Inglês Básico - Microlins 
-
-    - Término: 2024
 #
 ### Atividades Complementares
 
